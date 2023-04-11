@@ -5,6 +5,9 @@ CHANGELOG
 XXXX.X.X       (XXXX-XX-XX)
 ---------------------------
 
+**Performance**
+
+- Optimize source refresh and ES indexation process -p
 
 
 2023.5.0       (2023-05-10)
